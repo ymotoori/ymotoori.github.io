@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "Yutaro Motoori"
+title: "Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h2>
+Yutaro Motoori
+</h2>
 
 <i>
 Assistant Professor / <a href="https://fm.me.es.osaka-u.ac.jp">Fluid Mechanics Group</a>
