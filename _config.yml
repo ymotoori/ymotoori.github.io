@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"https://orcid.org/0000-0002-9647-9014l"
+  orcid            : "https://orcid.org/0000-0002-9647-9014"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : https://twitter.com/goto_fmlab
   vine             :
   weibo            :
   xing             :
