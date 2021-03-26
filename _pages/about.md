@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-<i>Assistant Professor / Fluid Mechanics Group
+<i>
+Assistant Professor / Fluid Mechanics Group
+</i>
 
+<i>
 Division of Nonlinear Mechanics \\
 Department of Mechanical Science and Bioengineering \\
 Graduate School of Engineering Science, Osaka University
+</i>
 
+<i>
 1-3 Machikaneyama, Toyonaka, Osaka, 560-8531 Japan \\
 y_motoori at fm.me.es.osaka-u.ac.jp
 </i>
