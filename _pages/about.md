@@ -10,11 +10,12 @@ redirect_from:
 
 Assistant Professor
 
-Division of Nonlinear Mechanics
+Division of Nonlinear Mechanics \\
 Department of Mechanical Science and Bioengineering
+
 Graduate School of Engineering Science, Osaka University
 
 1-3 Machikaneyama, Toyonaka, Osaka, 560-8531 Japan
 
-E-mail: mm
+E-mail: y_motoori (at) fm.me.es.osaka-u.ac.jp
 
