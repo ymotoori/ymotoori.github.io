@@ -4,5 +4,5 @@ collection: publications
 date: 2019-06-01
 venue: 'Journal of Fluid Science and Technology'
 paperurl: 'https://doi.org/10.1299/jfst.2019jfst0016'
-citation: 'Yutaro Motoori, Susumu Goto <br> <i>J. Fluid Sci. Technol</i> <b>14</b> (2019) JFST0016 (8 pages).<br>'
+citation: 'Yutaro Motoori, Susumu Goto <br> <i>J. Fluid Sci. Technol</i> <b>14</b> (2019) JFST0016 (8 pages).<br><a href="https://doi.org/10.1299/jfst.2019jfst0016">https://doi.org/10.1299/jfst.2019jfst0016</a>'
 ---
