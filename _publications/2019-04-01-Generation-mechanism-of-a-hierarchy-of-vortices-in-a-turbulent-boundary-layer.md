@@ -8,4 +8,3 @@ venue: 'Journal of Fluid Mechanics'
 paperurl: 'https://doi.org/10.1017/jfm.2019.76'
 citation: 'Yutaro Motoori, Susumu Goto, J. Fluid Mech. 865 (2019) 1085-1109.'
 ---
-書き直し
