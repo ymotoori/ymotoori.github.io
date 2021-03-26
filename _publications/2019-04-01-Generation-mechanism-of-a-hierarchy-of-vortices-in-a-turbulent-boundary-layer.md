@@ -6,6 +6,6 @@ excerpt: ''
 date: 2019-04-01
 venue: 'Journal of Fluid Mechanics'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: ''
+citation: 'Yutaro Motoori, Susumu Goto, J. Fluid Mech. 865 (2019) 1085-1109.'
 ---
 書き直し
