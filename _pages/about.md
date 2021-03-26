@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <i>
-Assistant Professor / Fluid Mechanics Group
+Assistant Professor / <a href="https://fm.me.es.osaka-u.ac.jp">Fluid Mechanics Group</a>
 </i>
 
 <i>
