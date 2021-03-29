@@ -29,7 +29,6 @@ y_motoori at fm.me.es.osaka-u.ac.jp
 
 <br>
 <hr>
-<br>
 
 <ul class="timeline">
 <li>
