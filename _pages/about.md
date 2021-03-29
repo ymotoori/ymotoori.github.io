@@ -27,7 +27,9 @@ Graduate School of Engineering Science, Osaka University
 y_motoori at fm.me.es.osaka-u.ac.jp
 </i>
 
+<br>
 <hr>
+<br>
 
 <ul class="timeline">
 <li>
@@ -49,9 +51,21 @@ y_motoori at fm.me.es.osaka-u.ac.jp
 	</div>
 </li>
 <li>
-	<p class="timeline-date">2018 April - </p>
+	<p class="timeline-date">2021 March </p>
 	<div class="timeline-content">
 		<p>Ph.D. (Engneering) Osaka University</p>
+	</div>
+</li>
+<li>
+	<p class="timeline-date">2021 March </p>
+	<div class="timeline-content">
+		<p>Ph.D. (Engneering) Osaka University</p>
+	</div>
+</li>
+<li>
+	<p class="timeline-date">2021 April </p>
+	<div class="timeline-content">
+		<p>Assistant Professor Osaka University</p>
 	</div>
 </li>
 </ul>
