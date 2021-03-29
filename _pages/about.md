@@ -55,11 +55,9 @@ y_motoori at fm.me.es.osaka-u.ac.jp
 			Ph.D. (Engneering), Osaka University 
 		</i></p>
 		<p font sice = "4">
-			(
 			<i>
-			Research Fellowship for Young Scientists, 2020 April -
+			(Research Fellowship for Young Scientists, 2020 April -)
 			</i>
-			)
 		</p>
 	</div>
 </li>
