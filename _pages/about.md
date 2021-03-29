@@ -31,12 +31,11 @@ y_motoori at fm.me.es.osaka-u.ac.jp
 <hr>
 <br>
 
-<i>
 <ul class="timeline">
 <li>
-	<p class="timeline-date">1994 April</p>
+	<p class="timeline-date"><i>1994 April</i></p>
 	<div class="timeline-content">
-		<p>Born</p>
+		<p><i>Born</i></p>
 	</div>
 </li>
 <li>
@@ -64,4 +63,3 @@ y_motoori at fm.me.es.osaka-u.ac.jp
 	</div>
 </li>
 </ul>
-</i>
