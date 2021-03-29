@@ -51,7 +51,10 @@ y_motoori at fm.me.es.osaka-u.ac.jp
 <li>
 	<p class="timeline-date"><i>2021 March</i></p>
 	<div class="timeline-content">
-		<p><i>Ph.D. (Engneering), Osaka University</i></p>
+		<p><i>
+			Ph.D. (Engneering), Osaka University \\
+			(Research Fellowship for Young Scientists, 2020 April - 2021 March)
+		</i></p>
 	</div>
 </li>
 <li>
