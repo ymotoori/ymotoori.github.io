@@ -29,29 +29,32 @@ y_motoori at fm.me.es.osaka-u.ac.jp
 
 <hr>
 
+li { list-style:none; }
+li:before { content:" o "; }
+
 <ul class="timeline">
 <li>
-	<p class="timeline-date">1994 April</p>
+	<h4 class="timeline-date">1994 April</h4>
 	<div class="timeline-content">
-		<h5>Born</h5>
+		<h4>Born</h4>
 	</div>
 </li>
 <li>
-	<p class="timeline-date">2017 March</p>
+	<h4 class="timeline-date">2017 March</h4>
 	<div class="timeline-content">
-		<h5>BEng Osaka University</h5>
+		<h4>BEng Osaka University</h4>
 	</div>
 </li>
 <li>
-	<p class="timeline-date">2018 March</p>
+	<h4 class="timeline-date">2018 March</h4>
 	<div class="timeline-content">
-		<h5>MEng Osaka University</h5>
+		<h4>MEng Osaka University</h4>
 	</div>
 </li>
 <li>
-	<p class="timeline-date">2018 April - </p>
+	<h4 class="timeline-date">2018 April - </h4>
 	<div class="timeline-content">
-		<h5>Ph.D. Student Osaka University</h5>
+		<h4>Ph.D. Student Osaka University</h4>
 	</div>
 </li>
 </ul>
