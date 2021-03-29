@@ -33,13 +33,13 @@ y_motoori at fm.me.es.osaka-u.ac.jp
 <li>
 	<p class="timeline-date">1994 April</p>
 	<div class="timeline-content">
-		<h5>Born</h5>
+		<p>Born</p>
 	</div>
 </li>
 <li>
 	<p class="timeline-date">2017 March</p>
 	<div class="timeline-content">
-		<h5>BEng Osaka University</h5>
+		<p>BEng Osaka University</p>
 	</div>
 </li>
 <li>
