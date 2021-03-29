@@ -39,27 +39,27 @@ y_motoori at fm.me.es.osaka-u.ac.jp
 	</div>
 </li>
 <li>
-	<p class="timeline-date">2017 March</p>
+	<p class="timeline-date"><i>2017 March</i></p>
 	<div class="timeline-content">
-		<p>BEng, Osaka University</p>
+		<p><i>BEng, Osaka University</i></p>
 	</div>
 </li>
 <li>
-	<p class="timeline-date">2018 March</p>
+	<p class="timeline-date"><i>2018 March</i></p>
 	<div class="timeline-content">
-		<p>MEng, Osaka University</p>
+		<p><i>MEng, Osaka University</i></p>
 	</div>
 </li>
 <li>
-	<p class="timeline-date">2021 March </p>
+	<p class="timeline-date"><i>2021 March</i></p>
 	<div class="timeline-content">
-		<p>Ph.D. (Engneering), Osaka University</p>
+		<p><i>Ph.D. (Engneering), Osaka University</i></p>
 	</div>
 </li>
 <li>
-	<p class="timeline-date">2021 April </p>
+	<p class="timeline-date"><i>2021 April</i></p>
 	<div class="timeline-content">
-		<p>Assistant Professor, Osaka University</p>
+		<p><i>Assistant Professor, Osaka University</i></p>
 	</div>
 </li>
 </ul>
