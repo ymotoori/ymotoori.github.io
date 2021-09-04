@@ -1,1 +1,4 @@
 ssh -T github.com
+git add -A
+git commit -m "コメント"
+git push
