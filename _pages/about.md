@@ -24,7 +24,7 @@ Graduate School of Engineering Science, Osaka University
 
 <i>
 1-3 Machikaneyama, Toyonaka, Osaka, 560-8531 Japan \\
-y_motoori at fm.me.es.osaka-u.ac.jp
+y.motoori.es at osaka-u.ac.jp
 </i>
 
 <hr>
