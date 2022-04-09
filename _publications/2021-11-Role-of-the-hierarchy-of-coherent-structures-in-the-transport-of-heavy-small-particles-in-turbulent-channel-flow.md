@@ -4,6 +4,6 @@ collection: publications
 date: 2021-11-01
 citation: '
 <u>Yutaro Motoori</u>, ChiKuen Wong, Susumu Goto <br> 
-submitted.
+<i>J. Fluid Mech.</i> (in press).<br>
 '
 ---
