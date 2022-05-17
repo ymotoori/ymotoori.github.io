@@ -7,5 +7,4 @@ citation: '
 <i>J. Fluid Mech.</i> <b>942</b> (2022) A3 (24 pages).<br>
 <a href="https://doi.org/10.1017/jfm.2022.327">https://doi.org/10.1017/jfm.2022.327</a>
 '
-'
 ---
