@@ -29,7 +29,7 @@ y.motoori.es at osaka-u.ac.jp
 
 <hr>
 
-<! –
+<!--
 
 <ul class="timeline">
 <li>
@@ -70,7 +70,7 @@ y.motoori.es at osaka-u.ac.jp
 </li>
 </ul>
 
-->
+-->
 
 <ul class="timeline">
   <li class="timeline-event">
