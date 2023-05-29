@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Y. Motoori"
+title                    : "Yutaro Motoori"
 title_separator          : "-"
 name                     : &name "Yutaro Motoori"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "YUTARO MOTOORI"
+  name             : "Yutaro Motoori"
   avatar           : "profile.png"
   bio              : "   "
   location         : "Osaka University"
