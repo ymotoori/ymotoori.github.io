@@ -5,12 +5,12 @@ main:
 
   - title: "Conferences"
     url: /talks/    
-
-  - title: "日本語の情報"
-    url: /japanese/    
     
   - title: "Gallery"
     url: /portfolio/
+
+  - title: "日本語の情報"
+    url: /japanese/    
         
     #  - title: "Blog Posts"
     #    url: /year-archive/
