@@ -13,7 +13,7 @@ Yutaro Motoori
 </h2>
 
 <i>
-Assistant Professor / <a href="https://fm.me.es.osaka-u.ac.jp">Fluid Mechanics Group</a>
+Assistant Professor / <a href="https://fm.me.es.osaka-u.ac.jp"><font color="#0000FF">Fluid Mechanics Group</font></a>
 </i>
 
 <i>

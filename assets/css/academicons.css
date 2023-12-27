@@ -346,9 +346,9 @@ padding: 0px;}
   margin-top: 25px;
 }
 .timeline-content {
-  width: 75%;
+  width: 95%;
   float: left;
-  border-left: 3px #e5e5d1 solid;
+  border-left: 5px #a9ceec solid;
   padding-left: 30px;
 }
 
