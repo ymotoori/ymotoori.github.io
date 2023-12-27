@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<h3>
+<h2>
 Yutaro Motoori
-</h3>
-
-<br>
+</h2>
 
 <i>
 Assistant Professor / <a href="https://fm.me.es.osaka-u.ac.jp"><font color="#0000FF">Fluid Mechanics Group</font></a>
