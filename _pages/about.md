@@ -27,7 +27,7 @@ Graduate School of Engineering Science, Osaka University
 y.motoori.es at osaka-u.ac.jp
 </i>
 
-<hr>
+<br>
 
 <ul class="timeline">
 <li>
