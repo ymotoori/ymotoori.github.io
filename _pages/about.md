@@ -13,8 +13,7 @@ Assistant Professor / <a href="https://fm.me.es.osaka-u.ac.jp"><font color="#000
 </i>
 
 <i>
-Division of Nonlinear Mechanics \\
-Department of Mechanical Science and Bioengineering \\
+Division of Nonlinear Mechanics / Department of Mechanical Science and Bioengineering \\
 Graduate School of Engineering Science, Osaka University
 </i>
 
