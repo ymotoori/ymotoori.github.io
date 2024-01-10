@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Profile"
+title: "Yutaro Motoori"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<h2>
-Yutaro Motoori
-</h2>
-
 <i>
-Assistant Professor / <a href="https://fm.me.es.osaka-u.ac.jp">Fluid Mechanics Group</a>
+Assistant Professor / <a href="https://fm.me.es.osaka-u.ac.jp"><font color="#0000FF">Fluid Mechanics Group</font></a>
 </i>
 
 <i>
-Division of Nonlinear Mechanics \\
-Department of Mechanical Science and Bioengineering \\
+Division of Nonlinear Mechanics / Department of Mechanical Science and Bioengineering \\
 Graduate School of Engineering Science, Osaka University
 </i>
 
@@ -27,7 +22,7 @@ Graduate School of Engineering Science, Osaka University
 y.motoori.es at osaka-u.ac.jp
 </i>
 
-<hr>
+<br>
 
 <ul class="timeline">
 <li>
