@@ -26,25 +26,25 @@ y.motoori.es at osaka-u.ac.jp
 
 <ul class="timeline">
 <li>
-	<p class="timeline-date"><i>1994 April ~</i></p>
+	<p class="timeline-date"><i>1994 April</i></p>
 	<div class="timeline-content">
 		<p><i>Born</i></p>
 	</div>
 </li>
 <li>
-	<p class="timeline-date"><i>~ 2017 March</i></p>
+	<p class="timeline-date"><i>2017 March</i></p>
 	<div class="timeline-content">
 		<p><i>BEng, Osaka University</i></p>
 	</div>
 </li>
 <li>
-	<p class="timeline-date"><i>~ 2018 March</i></p>
+	<p class="timeline-date"><i>2018 March</i></p>
 	<div class="timeline-content">
 		<p><i>MEng, Osaka University</i></p>
 	</div>
 </li>
 <li>
-	<p class="timeline-date"><i>~ 2021 March</i></p>
+	<p class="timeline-date"><i>2021 March</i></p>
 	<div class="timeline-content">
 		<p><i>
 			Ph.D. (Engneering), Osaka University <br>
