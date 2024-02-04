@@ -56,7 +56,7 @@ y.motoori.es at osaka-u.ac.jp
 </li>
 <br>
 <li>
-	<p class="timeline-date"><i>2021 April</i></p>
+	<p class="timeline-date"><i>2021 April ~</i></p>
 	<div class="timeline-content">
 		<p><i>Assistant Professor, Osaka University</i></p>
 	</div>
