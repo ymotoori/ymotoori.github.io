@@ -4,9 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<br>
-<br>
-<p id="backgroundcolor"><i>&emsp; &emsp; 2024 </i></p>
+<p id="backgroundcolor"><i>&emsp; &emsp; <b>2024</b> </i></p>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
