@@ -4,7 +4,7 @@ collection: publications
 date: 2026-01-01
 citation: '
 <u>Yutaro Motoori</u>, Pierre Bragança, Susumu Goto <br> 
-<i>submitted</i><br>
+<i>Phys. Rev. Fluids</i> (in press)<br>
 <br>
 <p id="backgroundcolor"><i>&emsp; &emsp; <b>2025</b> </i></p>
 '
