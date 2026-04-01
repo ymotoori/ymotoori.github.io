@@ -92,7 +92,7 @@ y.motoori.es at osaka-u.ac.jp
 
   <li>
     <p class="timeline-date">
-      <i>2013 – 2017</i>
+      <i>April 2013 – March 2017</i>
     </p>
     <div class="timeline-content">
       <p>
@@ -103,7 +103,7 @@ y.motoori.es at osaka-u.ac.jp
 
   <li>
     <p class="timeline-date">
-      <i>2017 – 2018</i>
+      <i>April 2017 – March 2018</i>
     </p>
     <div class="timeline-content">
       <p>
@@ -114,13 +114,13 @@ y.motoori.es at osaka-u.ac.jp
 
   <li>
     <p class="timeline-date">
-      <i>2018 – 2021</i>
+      <i>April 2018 – March 2021</i>
     </p>
     <div class="timeline-content">
       <p>
         <i>PhD in Engineering, Osaka University</i>
         <span class="timeline-note">
-          <i>(Research Fellowship for Young Scientists, from 2020)</i>
+          <i>(Research Fellowship for Young Scientists, from April 2020)</i>
         </span>
       </p>
     </div>
@@ -128,7 +128,7 @@ y.motoori.es at osaka-u.ac.jp
 
   <li>
     <p class="timeline-date">
-      <i>2021 – 2026</i>
+      <i>April 2021 – March 2026</i>
     </p>
     <div class="timeline-content">
       <p>
