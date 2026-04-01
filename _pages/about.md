@@ -44,7 +44,7 @@ y.motoori.es at osaka-u.ac.jp
     font-style: italic;
     font-weight: 600;
     white-space: nowrap;
-    color: #444;
+    color: #777;
   }
 
   .timeline-content {
@@ -92,7 +92,7 @@ y.motoori.es at osaka-u.ac.jp
 
   <li>
     <p class="timeline-date">
-      <i>March 2017</i>
+      <i>April 2013 – March 2017</i>
     </p>
     <div class="timeline-content">
       <p>
@@ -103,7 +103,7 @@ y.motoori.es at osaka-u.ac.jp
 
   <li>
     <p class="timeline-date">
-      <i>March 2018</i>
+      <i>April 2017 – March 2018</i>
     </p>
     <div class="timeline-content">
       <p>
@@ -114,7 +114,7 @@ y.motoori.es at osaka-u.ac.jp
 
   <li>
     <p class="timeline-date">
-      <i>March 2021</i>
+      <i>April 2018 – March 2021</i>
     </p>
     <div class="timeline-content">
       <p>
@@ -132,7 +132,18 @@ y.motoori.es at osaka-u.ac.jp
     </p>
     <div class="timeline-content">
       <p>
-        <i>Assistant Professor, Osaka University</i>
+        <i>Assistant Professor, the University of Osaka</i>
+      </p>
+    </div>
+  </li>
+
+  <li>
+    <p class="timeline-date">
+      <i>April 2026 – </i>
+    </p>
+    <div class="timeline-content">
+      <p>
+        <i>Associate Professor (Lecturer), the University of Osaka</i>
       </p>
     </div>
   </li>
