@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 <i>
-Assistant Professor / <a href="https://fm.me.es.osaka-u.ac.jp"><font color="#0000FF">Fluid Mechanics Group</font></a>
+Associate Professor (Lecturer) / <a href="https://fm.me.es.osaka-u.ac.jp"><font color="#0000FF">Fluid Mechanics Group</font></a>
 </i>
 
 <i>
 Division of Nonlinear Mechanics / Department of Mechanical Science and Bioengineering \\
-Graduate School of Engineering Science, Osaka University
+Graduate School of Engineering Science, the University of Osaka
 </i>
 
 <i>
@@ -56,7 +56,7 @@ y.motoori.es at osaka-u.ac.jp
 </li>
 <br>
 <li>
-	<p class="timeline-date"><i>2021 April ~</i></p>
+	<p class="timeline-date"><i>2021 April ~ 2026 March</i></p>
 	<div class="timeline-content">
 		<p><i>Assistant Professor, Osaka University</i></p>
 	</div>
