@@ -8,6 +8,5 @@ citation: '
 <a href="https://doi.org/10.1103/tnxb-ckr5"><font color="#0000FF">https://doi.org/10.1103/tnxb-ckr5</font></a> 
 <br>
 <br>
-<p id="backgroundcolor"><i>&emsp; &emsp; <b>2025</b> </i></p>
 '
 ---
